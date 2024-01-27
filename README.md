@@ -1,21 +1,57 @@
-# 💫 About Me:
-👋 Hey there! I'm Tharindu Nimesh 😄, a passionate software engineering student at JIAT. 🎓💻<br><br>🌱 I'm constantly growing and learning in the vast world of technology. With each line of code, I strive to make a positive impact. 💡✨<br><br>🔭 Currently, I'm exploring various domains like web development, data science, and software architecture. I enjoy solving complex problems and turning ideas into reality. 💪🌐<br><br>💡 As a lifelong learner, I believe in the power of open-source and collaboration. I'm always excited to contribute to meaningful projects and work with fellow developers worldwide. 🌍💙<br><br>⚡️ When I'm not coding, you can find me exploring the beauty of nature 🏞️, sipping a cup of tea ☕, or enjoying a good book 📚. I also love to travel and experience different cultures. 🌍✈️<br><br>📫 Feel free to connect with me on GitHub and let's embark on this amazing journey together! 🚀💻<br><br>Keep calm and code on! 😄🔥
+<h1 align="center">Hi 👋, I'm <a href="https://tharindu.eversoft.lk" target="blank">
+Tharindu Nimesh</a></h1>
+<h3 align="center">A passionate Software Engineer from Colombo, Sri Lanka. 🇱🇰</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TharinduNimesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TharinduNimesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduNimesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 I’m currently working in <a href="https://www.eversoft.lk" target="blank">Eversoft ✅</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TharinduNimesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🌱 I’m currently Working as Fullstack Developer
 
----
-[![](https://visitcount.itsvg.in/api?id=TharinduNimesh&icon=0&color=1)](https://visitcount.itsvg.in)
+- 🤝 I’m available for freelancing.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I’m currently learning Nuxt JS, Express JS with <a href="https://bun.sh" target="blank">Bun JS</a>
+
+- 📝 I regularly write articles on <a href="https://tharindu.eversoft.lk/blog" target="blank">my blog</a>
+
+- 💬 Ask me about **Vue JS & Laravel**
+
+- 📫 How to reach me **tharindunimesh@eversoft.lk**
+
+- 📄 Know about my experiences <a href="https://tharindu.eversoft.lk" target="blank">Resume</a>
+<br/>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 align="center" style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br />
+<br />
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=TharinduNimesh&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduNimesh&theme=react&layout=compact" />
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
