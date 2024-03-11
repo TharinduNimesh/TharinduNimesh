@@ -41,7 +41,7 @@ Tharindu Nimesh</a></h1>
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/TharinduNimesh/TharinduNimesh/blob/main/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
